@@ -1,0 +1,20 @@
+<!-- Generated 2025-10-16T17:04:51.162083+00:00 for demo@example.com | task kanban-board-app-demo round 1 -->
+body {
+                font-family: system-ui, sans-serif;
+                padding: 2rem;
+                background: #f7fafc;
+                color: #1a202c;
+            }
+            #app {
+                max-width: 48rem;
+                margin: 0 auto;
+                background: white;
+                padding: 2rem;
+                border-radius: 1rem;
+                box-shadow: 0 2rem 4rem -3rem rgba(26, 32, 44, 0.4);
+            }
+            .meta {
+                font-size: 0.875rem;
+                color: #4a5568;
+                margin-top: 2rem;
+            }
